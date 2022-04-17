@@ -1,4 +1,7 @@
 # MetricCount
+
+O team, Daniel Xu, 오민혁, Pierre SANTAMARIA
+
 Please note that our target language is C (might work with C#)
 Our source is in python
 
