@@ -10,3 +10,5 @@ For windows:
 For linux:
   -run "chmod +x metric_counter.py" for writing permissions
   -run "./metric_counter.py in.file out.file"
+
+our sample file (in.file) is named matrix.c
