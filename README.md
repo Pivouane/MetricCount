@@ -2,11 +2,11 @@
 Please note that our target language is C (might work with C#)
 Our source is in python
 
-HOW TO RUN COMPLEXITY COUNTER :
+HOW TO RUN OOM COUNTER :
 
 For windows:
-  -simply run complexity_counter.bat "complexity_counter.bat in.file out.file"
+  -simply run oom_counter.bat "oom_counter.bat in.file out.file"
   
 For linux:
-  -run "chmod +x complexity_counter.py" for writing permissions
-  -run "./complexity_counter.py in.file out.file"
+  -run "chmod +x oom_counter.py" for writing permissions
+  -run "./oom_counter.py in.file out.file"
