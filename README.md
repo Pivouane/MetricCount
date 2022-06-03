@@ -1,12 +1,11 @@
 # MetricCount
-Please note that our target language is C (might work with C#)
 Our source is in python
 
-HOW TO RUN OOM COUNTER :
+HOW TO RUN METRIC TRACKER :
 
 For windows:
-  -simply run oom_counter.bat "oom_counter.bat in.file out.file"
+  -simply run metric_tracker "metric_tracker in.file out.file"
   
 For linux:
-  -run "chmod +x oom_counter.py" for writing permissions
-  -run "./oom_counter.py in.file out.file"
+  -run "chmod +x metric_tracker.py" for writing permissions
+  -run "./metric_tracker.py in.file out.file"
